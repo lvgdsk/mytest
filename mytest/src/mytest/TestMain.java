@@ -10,6 +10,7 @@ public class TestMain {
 		System.out.println("i="+i);  //i=4
 		System.out.println("j="+j);  //j=1
 		System.out.println("k="+k);  //k=11
+		//¼Óµã
 	}
 
 }
